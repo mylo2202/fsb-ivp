@@ -8,3 +8,4 @@ scipy
 PyWavelets
 scikit-learn
 opencv-python
+scikit-image
