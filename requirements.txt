@@ -1,0 +1,10 @@
+ipykernel
+numpy
+jupytext
+matplotlib
+matplotlib-inline
+jupyterlab
+scipy
+PyWavelets
+scikit-learn
+opencv-python
